@@ -10,6 +10,12 @@ A simple Flutter app that allows users to perform CRUD (Create, Read, Update, De
 - 📡 **Real-time synchronization** with Firebase Firestore.
 
 ![photo_2025-03-05_16-26-50](https://github.com/user-attachments/assets/93ba7f34-2f5b-4bcd-8595-f57f90af6ccb)
+![photo_2025-03-05_16-26-23](https://github.com/user-attachments/assets/34eb33bc-bc70-4f2a-997a-67ed6449be56)
+![photo_2025-03-05_16-26-37](https://github.com/user-attachments/assets/4dc41972-0962-4660-98aa-d0dc564a7ae6)
+![Uploading photo_2025-03-05_16-26-44.jpg…]()
+
+
+
 
 
 ## Technologies Used 🛠️
