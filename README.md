@@ -26,7 +26,7 @@ A simple Flutter app that allows users to perform CRUD (Create, Read, Update, De
 ## Installation 🛠️
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/yaadiOroko430/CRUD-Operation-Using-flutter-and-firebase.git
 
 
 ## Getting Started
