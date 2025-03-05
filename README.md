@@ -1,6 +1,27 @@
 # notes
+# Firebase Notes App 📒🔥
 
-A new Flutter project.
+A simple Flutter app that allows users to perform CRUD (Create, Read, Update, Delete) operations on notes using Firebase Firestore.
+
+## Features ✨
+- 📝 **Create** new notes.
+- 🔄 **Update** existing notes.
+- ❌ **Delete** notes with a confirmation popup.
+- 📡 **Real-time synchronization** with Firebase Firestore.
+
+![photo_2025-03-05_16-26-50](https://github.com/user-attachments/assets/93ba7f34-2f5b-4bcd-8595-f57f90af6ccb)
+
+
+## Technologies Used 🛠️
+- **Flutter** (Dart)
+- **Firebase Firestore** for database
+- **Cloud Firestore** for real-time updates
+
+## Installation 🛠️
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+
 
 ## Getting Started
 
